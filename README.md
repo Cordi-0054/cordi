@@ -3,6 +3,8 @@
 Cordially Token is a decentralized digital asset built on the Solana blockchain.  
 Our vision is financial freedom, community empowerment, and transparent development.
 
+![Cordi Logo](assets/cordi.png)
+
 ## 🔗 Official Links
 - Website: https://cordiallytoken.com  
 - Twitter: https://x.com/CordiallyT1316  
