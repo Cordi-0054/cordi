@@ -5,6 +5,7 @@ Our vision is financial freedom, community empowerment, and transparent developm
 
 ![Cordi Logo](assets/cordi.png)
 
+
 ## 🔗 Official Links
 - Website: https://cordiallytoken.com  
 - Twitter: https://x.com/CordiallyT1316  
